@@ -11,12 +11,11 @@ A simple Python game where the computer chooses a random number between 1 and 10
 Make sure Python is installed, then run:
 Terminal
 bash
-python guessing_game.py
+python Guessing-Game.py
 
 ## Example Gameplay
 
 Enter:12
-
 Guess Higher
 Enter:40
 Guess Higher
