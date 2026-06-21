@@ -14,7 +14,9 @@ bash
 python guessing_game.py
 
 ## Example Gameplay
+
 Enter:12
+
 Guess Higher
 Enter:40
 Guess Higher
